@@ -1,0 +1,11 @@
+header {
+    background-color: rgb(44, 59, 71);
+    padding: 15px;
+    text-align: center;
+    font-family: 'Markazi Text', serif;
+}
+
+header h1 {
+    color: white; 
+
+}
